@@ -1,7 +1,9 @@
 let body = document.querySelector("body")
 let ggwp = document.querySelector("#ggwp")
 
-body.addEventListener("click",()=>{
+
+
+setTimeout(()=>{
     ggwp.click()
     window.close()
-})
+},1000)
