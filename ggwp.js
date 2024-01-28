@@ -6,4 +6,4 @@ let ggwp = document.querySelector("#ggwp")
 setTimeout(()=>{
     ggwp.click()
     window.close()
-},1000)
+},500) 
